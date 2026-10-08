@@ -1,13 +1,5 @@
 # TP : API de réservation de salles
 
-> **À compléter par votre groupe avant le dernier push.**
-
-## Groupe
-
-| Membre | Compte GitHub | Rôle / tâches principales |
-|--------|---------------|---------------------------|
-| ...    | ...           | ...                       |
-
 ## Installation
 
 ```bash
@@ -20,7 +12,7 @@ python manage.py runserver
 ```
 
 Comptes de test (mot de passe : `motdepasse123`) : `alice`, `bob`, `charlie`.
-Super-utilisateur : `admin` / `admin123`.
+Super-utilisateur : `teuzem` / `admin123`.
 
 ## Endpoints
 
